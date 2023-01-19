@@ -1,6 +1,9 @@
 # serveur-JawWS
 creation d'un server jawWS
 
+#Dependency:
+>>![dependance](https://user-images.githubusercontent.com/102327247/213428270-2e195362-9855-4d25-a6c9-f0e6e14cab06.PNG)
+
 ## creation de classe Compte 
 >Annotation: 
 >
